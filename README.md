@@ -9,6 +9,8 @@ react脚手架
 
 ## 使用方法
 
+<code>git clone https://github.com/viviier/react-stick.git</code>
+
 <code>npm i</code>
 
 <code>npm run dev</code>
